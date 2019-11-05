@@ -16,6 +16,6 @@ public class WelcomeController {
 		
 		
 		
-		return "Hello FUCKING World!!!"; //"application/json" mean this is a text not a redirect
+		return "Hello World from Spring Boot!!!"; //"application/json" mean this is a text not a redirect
 	}
 }
